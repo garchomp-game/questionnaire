@@ -25,7 +25,7 @@
 
 - 年齢：21
 - 性別：男性
-- 得意言語：php, javascript
+- 得意言語：php, javascript
 - 得意フレームワーク：laravel, nuxt(vue)
 - 触れたことある言語：java, c#, mysql, ruby, lua, python
 - 触れたことあるフレームワーク：rails, codeigniter, rake
